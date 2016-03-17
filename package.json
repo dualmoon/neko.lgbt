@@ -1,0 +1,22 @@
+{
+  "name": "neko.lgbt",
+  "version": "1.0.0",
+  "description": "Static site for neko.lgbt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dualmoon/neko.lgbt.git"
+  },
+  "author": "Ashley Siobhan <luna@neko.lgbt>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dualmoon/neko.lgbt/issues"
+  },
+  "homepage": "https://github.com/dualmoon/neko.lgbt#readme",
+  "dependencies": {
+    "harp": "^0.20.1"
+  }
+}
